@@ -9,7 +9,6 @@ I enjoy blending AI with practical applications, contributing to open-source pro
 
 💻 Current Projects  
 - **Sensor Fusion & AI**: Developing datasets and training YOLO models for object detection.  
-- **Community Leadership**: Supporting ESN activities and organizing events to foster collaboration.  
 
 📫 How to Reach Me  
 - Email: aretikyriacou5@gmail.com  
