@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋, I'm Areti
 
-<!--
-**aretiii/aretiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me  
+I'm a Computer Engineer graduate passionate about technology and its real-world impact. My interests include:  
+- Autonomous vehicles and sensor fusion 🚗🤖  
+- Computer vision and YOLO models for object detection 📸  
 
-Here are some ideas to get you started:
+I enjoy blending AI with practical applications, contributing to open-source projects, and learning something new every day.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Current Projects  
+- **Sensor Fusion & AI**: Developing datasets and training YOLO models for object detection.  
+- **Community Leadership**: Supporting ESN activities and organizing events to foster collaboration.  
+
+📫 How to Reach Me  
+- Email: aretikyriacou5@gmail.com  
+- GitHub: You're already here! 😊  
