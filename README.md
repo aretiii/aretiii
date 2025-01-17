@@ -18,7 +18,7 @@ I enjoy blending AI with practical applications, contributing to open-source pro
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aretiii&show_icons=true&theme=radical)
+![Areti's GitHub stats](https://github-readme-stats.vercel.app/api?username=aretiii&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aretiii&layout=compact&theme=radical)
 
 📫 How to Reach Me  
