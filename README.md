@@ -17,10 +17,6 @@ I enjoy blending AI with practical applications, contributing to open-source pro
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-📊 GitHub Stats
-![Areti's GitHub stats](https://github-readme-stats.vercel.app/api?username=aretiii&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aretiii&layout=compact&theme=radical)
-
 📫 How to Reach Me  
 - Email: aretikyriacou5@gmail.com  
 - GitHub: You're already here! 😊  
